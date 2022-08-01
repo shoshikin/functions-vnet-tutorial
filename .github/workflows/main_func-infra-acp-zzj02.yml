@@ -39,4 +39,4 @@ jobs:
           app-name: 'func-infra-acp-zzj02'
           slot-name: 'Production'
           package: '${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}/output'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A03CF3C097FD469992D2928ABAFC2EB1 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_206B4345C55F4D5D951B291E9EE34B65 }}
